@@ -1,0 +1,6 @@
+C:\Users\Nasr\source\repos\MitraChallenge\MitraChallenge\bin\Debug\MitraChallenge.exe.config
+C:\Users\Nasr\source\repos\MitraChallenge\MitraChallenge\bin\Debug\MitraChallenge.exe
+C:\Users\Nasr\source\repos\MitraChallenge\MitraChallenge\bin\Debug\MitraChallenge.pdb
+C:\Users\Nasr\source\repos\MitraChallenge\MitraChallenge\obj\Debug\MitraChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Nasr\source\repos\MitraChallenge\MitraChallenge\obj\Debug\MitraChallenge.exe
+C:\Users\Nasr\source\repos\MitraChallenge\MitraChallenge\obj\Debug\MitraChallenge.pdb
