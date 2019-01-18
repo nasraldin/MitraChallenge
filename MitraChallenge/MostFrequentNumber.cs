@@ -5,6 +5,12 @@ namespace MitraChallenge
 {
     public class MostFrequentNumber
     {
+        /// <summary>
+        /// Find the most frequent number of the new array.
+        /// </summary>
+        /// <param name="arrayNumber"></param>
+        /// <param name="n"></param>
+        /// <returns></returns>
         public static int FindMostFrequent(int[] arrayNumber, int n)
         {
             // will contain new array of result
