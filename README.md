@@ -24,5 +24,5 @@ Open solution in Visual Studio 2015 +
 Build and run solution to run console application
 
 # Screenshot
-(https://github.com/nasraldin/MitraChallenge/blob/master/screenshot.PNG)
+![app](https://github.com/nasraldin/MitraChallenge/blob/master/screenshot.PNG)
 
