@@ -38,7 +38,7 @@ namespace MitraChallenge
                             int highestProduct = HighestProduct.GetHighestProduct(array, n);
 
                             if (highestProduct == -1)
-                                Console.WriteLine("count not lees than 3");
+                                Console.WriteLine("count cannot less than 3");
                             else
                                 Console.WriteLine($"\n Product array is [{ string.Join(", ", array)}] and Highest product is {highestProduct}");
                             goto GetChoose;
