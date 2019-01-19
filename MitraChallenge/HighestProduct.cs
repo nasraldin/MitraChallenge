@@ -15,7 +15,7 @@ namespace MitraChallenge
         /// <returns></returns>
         public static int GetHighestProduct(int[] array, int n)
         {
-            // if size is less than 3, no triplet exists 
+            // if size is less than 3, return -1 
             if (n < 3)
                 return -1;
 
