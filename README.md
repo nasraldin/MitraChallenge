@@ -11,17 +11,18 @@ Please provide tests that show your solution actually works.
 
 to run solution
 you can download exe project to test func without run solution in vs
+https://github.com/nasraldin/MitraChallenge/blob/master/MitraChallenge%20exe.zip
 
+### 2. Source Code
 Requirements:
 
 C#.Net with freamwork .net  4.6.1
-the sulotion is console app
 
 Steps:
 
-Clone repository
-Open solution in Visual Studio 2015 +
-Build and run solution to run console application
+1. Clone repository
+2. Open solution in Visual Studio 2015 +
+3. Build and run solution to run console application
 
 # Screenshot
 ![app](https://github.com/nasraldin/MitraChallenge/blob/master/screenshot.PNG)
