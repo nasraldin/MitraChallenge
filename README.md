@@ -13,7 +13,7 @@ to run solution
 you can download exe project to test func without run solution in vs
 https://github.com/nasraldin/MitraChallenge/raw/master/MitraChallenge%20exe.zip
 
-### 2. Source Code
+### Source Code
 Requirements:
 
 C#.Net with freamwork .net  4.6.1
