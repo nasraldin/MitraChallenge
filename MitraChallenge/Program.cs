@@ -19,7 +19,7 @@ namespace MitraChallenge
             Console.WriteLine("Please choose one of the Methods List");
             Console.WriteLine("Get Highest Product Enter 1");
             Console.WriteLine("Get Children Age Needed Enter 2");
-            Console.WriteLine("Get Children Age Needed Enter 3");
+            Console.WriteLine("Find Most Frequent Enter 3");
 
             try
             {
