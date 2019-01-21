@@ -11,7 +11,7 @@ Please provide tests that show your solution actually works.
 
 to run solution
 you can download exe project to test func without run solution in vs
-https://github.com/nasraldin/MitraChallenge/raw/master/MitraChallenge%20exe.zip
+https://raw.githubusercontent.com/nasraldin/MitraChallenge/master/MitraChallenge_exe.zip
 
 ### Source Code
 Requirements:
